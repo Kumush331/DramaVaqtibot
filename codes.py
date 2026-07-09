@@ -6,7 +6,7 @@ CODES = {
     "A001": "Agar tilaklar o`ldirganda — barcha qismlar",
     "A002": "Mo`jizakor telbalar — barcha qismlar",
     "A003": "Yovuz va telba — barcha qismlar",
-    "B001"alo: "Yaxshi yigit — barcha qismlar",
+    "B001": "Yaxshi yigit — barcha qismlar",
     "B002": "Sirena bo`sasi — barcha qismlar",
     "B003": "Bu muhabbatni tarjima qilish mumkinmi — barcha qismlar",
     "C001": "Haqiqiy ta'lim — barcha qismlar",
