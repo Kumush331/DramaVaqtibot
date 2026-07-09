@@ -88,20 +88,21 @@ CODES = {
     "A0016": "Agar tilaklar o`ldirganda — 6-qism",
     "A0017": "Agar tilaklar o`ldirganda — 7-qism",
     "A0018": "Agar tilaklar o`ldirganda — 8- qism Final",
-}#── Yaxshi yigit — alohida qismlar ───────────────────────────
-    "B0011": "Yaxshi yigit — 1-qism"
-    "B0012": "Yaxshi yigit — 2-qism"
-    "B0013": "Yaxshi yigit — 3-qism"
-    "B0014": "Yaxshi yigit — 4-qism"
-    "B0015": "Yaxshi yigit — 5-qism"
-    "B0016": "Yaxshi yigit — 6-qism"
-    "B0017": "Yaxshi yigit — 7-qism"
-    "B0018": "Yaxshi yigit — 8-qism"
-    "B0019": "Yaxshi yigit — 9-qism"
-    "B00110": "Yaxshi yigit — 10-qism"
-    "B00111": "Yaxshi yigit — 11-qism"
-    "B00112": "Yaxshi yigit — 12-qism"
-    "B00113": "Yaxshi yigit — 13-qism"
-    "B00114": "Yaxshi yigit — 14-qism"
-    "B00115": "Yaxshi yigit — 15-qism"
+    #── Yaxshi yigit — alohida qismlar ───────────────────────────
+    "B001": "Yaxshi yigit- barcha qismlar"
+    "B0011": "Yaxshi yigit — 1-qism",
+    "B0012": "Yaxshi yigit — 2-qism",
+    "B0013": "Yaxshi yigit — 3-qism",
+    "B0014": "Yaxshi yigit — 4-qism",
+    "B0015": "Yaxshi yigit — 5-qism",
+    "B0016": "Yaxshi yigit — 6-qism",
+    "B0017": "Yaxshi yigit — 7-qism",
+    "B0018": "Yaxshi yigit — 8-qism",
+    "B0019": "Yaxshi yigit — 9-qism",
+    "B00110": "Yaxshi yigit — 10-qism",
+    "B00111": "Yaxshi yigit — 11-qism",
+    "B00112": "Yaxshi yigit — 12-qism",
+    "B00113": "Yaxshi yigit — 13-qism",
+    "B00114": "Yaxshi yigit — 14-qism",
+    "B00115": "Yaxshi yigit — 15-qism",
     "B00116": "Yaxshi yigit — 16-qism final"
